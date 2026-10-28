@@ -1,7 +1,7 @@
 # 📑 Python Academic Lab Report — Computational Problem-Solving Documentation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:3B82F6,100:93C5FD&customColorList=1E293B,3B82F6,93C5FD&height=220&section=header&text=Python%20Academic%20Lab%20Report&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Formal%20Computational%20Problem-Solving%20%26%20Algorithm%20Verification&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Python Academic Lab Report Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:3B82F6,100:93C5FD&customColorList=1E293B,3B82F6,93C5FD&height=220&section=header&text=Python%20Academic%20Lab%20Report&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Formal%20Computational%20Problem-Solving%20and%20Algorithm%20Verification&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Python Academic Lab Report Banner" />
 </p>
 
 <p align="center">
